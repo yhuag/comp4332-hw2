@@ -13,3 +13,7 @@ python q1.py
 ```
 python q2.py
 ```
+- Q4
+```
+python q4.py
+```
